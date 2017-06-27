@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FruitWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/FruitWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FruitWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FruitWeb_main.iml" group="FruitWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FruitWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FruitWeb_test.iml" group="FruitWeb" />
+    </modules>
+  </component>
+</project>
